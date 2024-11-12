@@ -5,3 +5,5 @@
 ##### My header h5
 ###### My header h6
 Created index.md file
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+Added image!
